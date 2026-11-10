@@ -1,0 +1,901 @@
+fiscal_year,organization,source,amount
+2023,Legal Aid Society,Local,5814.26
+2023,New York Public Library,Local,5762.96
+2023,Flatbush Seniors Center,Aging,33555.64
+2023,Brooklyn Defender Services,Aging,7415.45
+2023,New York Public Library,Youth,40919.31
+2023,Food Bank For New York City,Aging,103265.11
+2023,Brooklyn Defender Services,Local,34099.74
+2023,Food Bank For New York City,Local,21558.77
+2023,Bushwick Youth Services,Local,18866.25
+2023,Brooklyn Public Library,Local,13226.61
+2023,City University of New York,Local,19592.34
+2023,Bushwick Youth Services,Local,6552.70
+2023,Food Bank For New York City,Speaker's Initiative,28927.54
+2023,Flatbush Seniors Center,Youth,20759.28
+2023,Flatbush Seniors Center,Cultural After-School Adventure (CASA),27875.42
+2023,Flatbush Seniors Center,Youth,1816.49
+2023,Food Bank For New York City,Local,23601.99
+2023,Legal Aid Society,Food Pantries,33095.11
+2023,Brooklyn Public Library,Local,44002.10
+2023,Brooklyn Public Library,Cultural After-School Adventure (CASA),5029.29
+2023,City University of New York,Speaker's Initiative,79251.06
+2023,Sunset Park Arts Collective,Youth,36010.27
+2023,Flatbush Seniors Center,Anti-Poverty,36828.71
+2023,Flatbush Seniors Center,Food Pantries,82436.14
+2023,Legal Aid Society,Cultural After-School Adventure (CASA),5186.36
+2023,Bushwick Youth Services,Youth,33351.44
+2023,Sunset Park Arts Collective,Speaker's Initiative,42837.45
+2023,Legal Aid Society,Local,84033.44
+2023,Sunset Park Arts Collective,Youth,76575.77
+2023,Bushwick Youth Services,Local,2076.04
+2023,Legal Aid Society,Anti-Poverty,125465.71
+2023,Brooklyn Defender Services,Aging,24389.17
+2023,Legal Aid Society,Local,12885.18
+2023,Brooklyn Defender Services,Youth,23113.84
+2023,New York Public Library,Local,6460.57
+2023,Flatbush Seniors Center,Aging,13711.24
+2023,Sunset Park Arts Collective,Anti-Poverty,50845.82
+2023,Bushwick Youth Services,Local,5703.38
+2023,Food Bank For New York City,Local,87141.38
+2023,New York Public Library,Local,66537.37
+2023,Brooklyn Public Library,Local,182245.40
+2023,Bushwick Youth Services,Food Pantries,33657.66
+2023,City University of New York,Food Pantries,68665.01
+2023,City University of New York,Local,8533.82
+2023,City University of New York,Local,10077.94
+2023,Sunset Park Arts Collective,Food Pantries,76436.65
+2023,Sunset Park Arts Collective,Food Pantries,28994.92
+2023,Food Bank For New York City,Food Pantries,5062.89
+2023,New York Public Library,Cultural After-School Adventure (CASA),23751.68
+2023,Sunset Park Arts Collective,Aging,202070.02
+2023,Legal Aid Society,Aging,18773.54
+2023,City University of New York,Aging,24114.04
+2023,New York Public Library,Local,23811.68
+2023,Brooklyn Public Library,Local,5646.45
+2023,Sunset Park Arts Collective,Speaker's Initiative,2425.98
+2023,Sunset Park Arts Collective,Anti-Poverty,27516.72
+2023,Bushwick Youth Services,Youth,62193.97
+2023,City University of New York,Local,214410.93
+2023,Flatbush Seniors Center,Anti-Poverty,5546.81
+2023,Brooklyn Public Library,Local,41531.22
+2023,Legal Aid Society,Food Pantries,57486.36
+2023,Sunset Park Arts Collective,Anti-Poverty,22982.45
+2023,Flatbush Seniors Center,Local,3595.87
+2023,Sunset Park Arts Collective,Local,26424.17
+2023,Food Bank For New York City,Anti-Poverty,14491.59
+2023,Sunset Park Arts Collective,Youth,5434.84
+2023,Brooklyn Public Library,Aging,20341.71
+2023,Food Bank For New York City,Aging,116817.66
+2023,Legal Aid Society,Local,58505.28
+2023,Bushwick Youth Services,Local,16260.70
+2023,New York Public Library,Food Pantries,22191.67
+2023,Legal Aid Society,Cultural After-School Adventure (CASA),9588.42
+2023,Sunset Park Arts Collective,Local,46918.23
+2023,Sunset Park Arts Collective,Local,18513.05
+2023,Brooklyn Defender Services,Local,14741.88
+2023,Sunset Park Arts Collective,Youth,71911.04
+2023,Brooklyn Defender Services,Local,9582.34
+2023,Legal Aid Society,Local,12583.78
+2023,Legal Aid Society,Aging,12742.48
+2023,Legal Aid Society,Local,26997.89
+2023,Brooklyn Public Library,Speaker's Initiative,2789.55
+2023,Brooklyn Public Library,Local,17070.26
+2023,Flatbush Seniors Center,Aging,5745.80
+2023,Food Bank For New York City,Speaker's Initiative,66121.20
+2023,Bushwick Youth Services,Youth,27168.78
+2023,New York Public Library,Cultural After-School Adventure (CASA),110606.51
+2023,City University of New York,Youth,23480.96
+2023,New York Public Library,Local,32466.02
+2023,Bushwick Youth Services,Speaker's Initiative,82247.92
+2023,City University of New York,Youth,6635.78
+2023,Bushwick Youth Services,Youth,42972.61
+2023,Food Bank For New York City,Youth,187468.14
+2023,Legal Aid Society,Youth,92507.26
+2023,Bushwick Youth Services,Youth,38265.19
+2023,Bushwick Youth Services,Local,46330.65
+2023,Brooklyn Public Library,Youth,24837.11
+2023,Legal Aid Society,Local,2773.56
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),43718.64
+2023,City University of New York,Local,63715.20
+2023,Bushwick Youth Services,Local,37999.42
+2023,Brooklyn Public Library,Youth,34873.53
+2023,Brooklyn Defender Services,Cultural After-School Adventure (CASA),19618.57
+2023,Bushwick Youth Services,Local,5645.51
+2023,New York Public Library,Local,45033.32
+2023,Legal Aid Society,Youth,8327.84
+2023,Brooklyn Public Library,Local,23872.72
+2023,Legal Aid Society,Aging,14137.98
+2023,Bushwick Youth Services,Speaker's Initiative,12918.57
+2023,Legal Aid Society,Local,13140.12
+2023,Flatbush Seniors Center,Aging,26678.65
+2023,City University of New York,Aging,17848.77
+2023,Flatbush Seniors Center,Local,50839.22
+2023,New York Public Library,Youth,69839.48
+2023,Legal Aid Society,Local,21736.28
+2023,Food Bank For New York City,Speaker's Initiative,16507.25
+2023,New York Public Library,Local,52028.81
+2023,Brooklyn Public Library,Aging,45325.97
+2023,Flatbush Seniors Center,Cultural After-School Adventure (CASA),12497.36
+2023,Bushwick Youth Services,Food Pantries,23778.43
+2023,Brooklyn Public Library,Speaker's Initiative,38633.73
+2023,Food Bank For New York City,Youth,9670.56
+2023,New York Public Library,Food Pantries,35856.89
+2023,New York Public Library,Local,23260.70
+2023,Brooklyn Public Library,Speaker's Initiative,22796.55
+2023,City University of New York,Local,39828.10
+2023,New York Public Library,Anti-Poverty,35279.13
+2023,Brooklyn Public Library,Local,102846.35
+2023,Legal Aid Society,Local,20736.33
+2023,Legal Aid Society,Aging,47372.77
+2023,New York Public Library,Local,6037.98
+2023,Bushwick Youth Services,Anti-Poverty,129196.31
+2023,City University of New York,Local,31923.90
+2023,Bushwick Youth Services,Local,184002.06
+2023,City University of New York,Cultural After-School Adventure (CASA),81657.21
+2023,New York Public Library,Food Pantries,18997.80
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),10383.85
+2023,Bushwick Youth Services,Local,40512.49
+2023,Flatbush Seniors Center,Cultural After-School Adventure (CASA),80157.93
+2023,Flatbush Seniors Center,Local,10724.07
+2023,Brooklyn Defender Services,Local,9993.12
+2023,City University of New York,Aging,1751.63
+2023,Flatbush Seniors Center,Youth,16720.72
+2023,City University of New York,Aging,365038.45
+2023,Bushwick Youth Services,Local,22955.03
+2023,Flatbush Seniors Center,Youth,39149.52
+2023,New York Public Library,Local,15222.57
+2023,Sunset Park Arts Collective,Youth,16309.72
+2023,Brooklyn Defender Services,Cultural After-School Adventure (CASA),34632.71
+2023,Brooklyn Public Library,Aging,53787.53
+2023,Sunset Park Arts Collective,Food Pantries,155113.80
+2023,Brooklyn Defender Services,Local,20159.81
+2023,Bushwick Youth Services,Speaker's Initiative,36721.20
+2023,Bushwick Youth Services,Food Pantries,79289.47
+2023,New York Public Library,Local,43620.97
+2023,Food Bank For New York City,Local,4077.14
+2023,Sunset Park Arts Collective,Local,14509.92
+2023,Flatbush Seniors Center,Speaker's Initiative,57575.09
+2023,Food Bank For New York City,Youth,16807.60
+2023,City University of New York,Local,13631.68
+2023,Bushwick Youth Services,Local,3967.70
+2023,Sunset Park Arts Collective,Food Pantries,15373.99
+2023,Sunset Park Arts Collective,Local,41859.21
+2023,Flatbush Seniors Center,Local,15396.36
+2023,Sunset Park Arts Collective,Speaker's Initiative,47048.56
+2023,Legal Aid Society,Anti-Poverty,19836.40
+2023,City University of New York,Speaker's Initiative,5780.37
+2023,Bushwick Youth Services,Aging,46221.95
+2023,Legal Aid Society,Anti-Poverty,76069.95
+2023,City University of New York,Local,25771.86
+2023,Sunset Park Arts Collective,Local,5859.03
+2023,City University of New York,Anti-Poverty,9734.96
+2023,Brooklyn Public Library,Local,143976.65
+2023,Food Bank For New York City,Local,25397.29
+2023,Flatbush Seniors Center,Cultural After-School Adventure (CASA),1230.22
+2023,Sunset Park Arts Collective,Local,52401.94
+2023,Food Bank For New York City,Food Pantries,22651.37
+2023,Food Bank For New York City,Youth,67958.60
+2023,Flatbush Seniors Center,Local,18581.19
+2023,Legal Aid Society,Local,42160.25
+2023,Brooklyn Defender Services,Local,10218.53
+2023,Sunset Park Arts Collective,Youth,89017.41
+2023,Flatbush Seniors Center,Youth,10964.71
+2023,Bushwick Youth Services,Local,177563.80
+2023,Sunset Park Arts Collective,Youth,77244.57
+2023,Brooklyn Public Library,Local,20554.77
+2023,Brooklyn Public Library,Food Pantries,26341.50
+2023,Flatbush Seniors Center,Aging,13631.22
+2023,Brooklyn Public Library,Aging,35687.36
+2023,Sunset Park Arts Collective,Local,41889.04
+2023,City University of New York,Youth,7724.00
+2023,Sunset Park Arts Collective,Local,7313.96
+2023,City University of New York,Local,102340.06
+2023,Brooklyn Public Library,Local,12966.19
+2023,City University of New York,Youth,19620.65
+2023,New York Public Library,Youth,18357.02
+2023,Bushwick Youth Services,Youth,51781.19
+2023,Brooklyn Public Library,Local,132306.84
+2023,Brooklyn Public Library,Local,7790.83
+2023,Brooklyn Defender Services,Food Pantries,4896.66
+2023,Sunset Park Arts Collective,Aging,19579.98
+2023,Bushwick Youth Services,Anti-Poverty,18469.72
+2023,Food Bank For New York City,Aging,49362.62
+2023,Brooklyn Public Library,Cultural After-School Adventure (CASA),41948.01
+2023,Flatbush Seniors Center,Cultural After-School Adventure (CASA),14128.85
+2023,Brooklyn Defender Services,Food Pantries,23318.48
+2023,Flatbush Seniors Center,Local,39920.79
+2023,Brooklyn Public Library,Speaker's Initiative,95614.58
+2023,Sunset Park Arts Collective,Local,140395.78
+2023,Bushwick Youth Services,Youth,35004.40
+2023,New York Public Library,Youth,48036.59
+2023,Bushwick Youth Services,Youth,46813.47
+2023,City University of New York,Local,6173.50
+2023,Brooklyn Defender Services,Local,27366.53
+2023,Brooklyn Public Library,Youth,18249.19
+2023,City University of New York,Food Pantries,26508.37
+2023,Legal Aid Society,Cultural After-School Adventure (CASA),20308.36
+2023,New York Public Library,Aging,6611.14
+2023,Flatbush Seniors Center,Local,30709.79
+2023,Flatbush Seniors Center,Local,71509.85
+2023,Bushwick Youth Services,Youth,19506.28
+2023,City University of New York,Youth,32749.32
+2023,Food Bank For New York City,Youth,19229.66
+2023,Brooklyn Defender Services,Aging,70172.65
+2023,New York Public Library,Cultural After-School Adventure (CASA),8852.57
+2023,Brooklyn Public Library,Local,24760.70
+2023,New York Public Library,Local,43580.53
+2023,City University of New York,Youth,125280.92
+2023,Food Bank For New York City,Youth,30879.03
+2023,Flatbush Seniors Center,Aging,65008.54
+2023,City University of New York,Local,119527.25
+2023,Sunset Park Arts Collective,Local,18207.06
+2023,Brooklyn Public Library,Local,3660.99
+2023,Food Bank For New York City,Local,77995.04
+2023,New York Public Library,Local,12531.73
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),5166.19
+2023,City University of New York,Local,6856.92
+2023,Brooklyn Defender Services,Youth,7779.31
+2023,Sunset Park Arts Collective,Anti-Poverty,15195.98
+2023,Bushwick Youth Services,Youth,29934.74
+2023,Sunset Park Arts Collective,Youth,153428.99
+2023,Bushwick Youth Services,Food Pantries,31967.33
+2023,Bushwick Youth Services,Speaker's Initiative,7459.77
+2023,City University of New York,Aging,28648.45
+2023,City University of New York,Aging,179843.55
+2023,Brooklyn Defender Services,Youth,13102.98
+2023,City University of New York,Speaker's Initiative,8457.03
+2023,Legal Aid Society,Cultural After-School Adventure (CASA),26213.69
+2023,Bushwick Youth Services,Local,8978.39
+2023,Food Bank For New York City,Youth,13985.92
+2023,New York Public Library,Speaker's Initiative,2646.91
+2023,Sunset Park Arts Collective,Local,22082.22
+2023,Bushwick Youth Services,Youth,24962.72
+2023,City University of New York,Local,23207.31
+2023,Brooklyn Public Library,Local,63142.29
+2023,Flatbush Seniors Center,Anti-Poverty,18468.51
+2023,Brooklyn Defender Services,Food Pantries,64294.97
+2023,Bushwick Youth Services,Speaker's Initiative,
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),14477.11
+2023,New York Public Library,Local,3687.48
+2023,Food Bank For New York City,Local,
+2023,Sunset Park Arts Collective,Youth,21428.27
+2023,Brooklyn Defender Services,Local,22064.46
+2023,Bushwick Youth Services,Speaker's Initiative,17212.16
+2023,Flatbush Seniors Center,Food Pantries,10351.71
+2023,Sunset Park Arts Collective,Cultural After-School Adventure (CASA),14960.91
+2023,City University of New York,Youth,256209.77
+2023,City University of New York,Cultural After-School Adventure (CASA),84063.82
+2023,New York Public Library,Local,22434.70
+2023,Brooklyn Public Library,Youth,42150.99
+2023,Food Bank For New York City,Local,76337.05
+2023,Brooklyn Public Library,Local,57199.09
+2023,New York Public Library,Youth,54250.56
+2023,Sunset Park Arts Collective,Aging,18998.91
+2023,Food Bank For New York City,Local,22961.09
+2023,Bushwick Youth Services,Anti-Poverty,27797.03
+2023,Legal Aid Society,Local,16315.15
+2023,Food Bank For New York City,Food Pantries,15424.55
+2023,Brooklyn Public Library,Aging,30644.11
+2023,City University of New York,Aging,7048.39
+2023,Sunset Park Arts Collective,Cultural After-School Adventure (CASA),49233.43
+2023,City University of New York,Youth,38255.19
+2023,Brooklyn Defender Services,Youth,9921.31
+2023,Legal Aid Society,Food Pantries,93658.87
+2023,Food Bank For New York City,Youth,13921.71
+2023,City University of New York,Cultural After-School Adventure (CASA),16770.26
+2023,City University of New York,Anti-Poverty,43701.23
+2023,Legal Aid Society,Local,9155.54
+2023,New York Public Library,Speaker's Initiative,3404.68
+2023,Brooklyn Defender Services,Youth,31556.80
+2023,Brooklyn Public Library,Cultural After-School Adventure (CASA),3214.87
+2023,Legal Aid Society,Youth,7048.47
+2023,New York Public Library,Youth,100009.14
+2023,Legal Aid Society,Local,19616.71
+2023,Flatbush Seniors Center,Youth,84980.05
+2023,Flatbush Seniors Center,Aging,40039.16
+2023,New York Public Library,Local,33632.77
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),6607.25
+2023,City University of New York,Aging,18098.70
+2023,Brooklyn Defender Services,Speaker's Initiative,17020.28
+2023,Legal Aid Society,Cultural After-School Adventure (CASA),3889.79
+2023,Bushwick Youth Services,Food Pantries,32717.08
+2023,Brooklyn Defender Services,Local,130460.83
+2023,Food Bank For New York City,Youth,33917.12
+2023,Sunset Park Arts Collective,Cultural After-School Adventure (CASA),3815.44
+2023,Food Bank For New York City,Local,7746.26
+2023,Sunset Park Arts Collective,Local,6583.10
+2023,New York Public Library,Local,3552.89
+2023,Brooklyn Public Library,Speaker's Initiative,11386.24
+2023,Bushwick Youth Services,Speaker's Initiative,10872.72
+2023,Sunset Park Arts Collective,Cultural After-School Adventure (CASA),83354.71
+2023,Sunset Park Arts Collective,Youth,11276.99
+2023,New York Public Library,Local,10115.04
+2023,Flatbush Seniors Center,Anti-Poverty,25170.22
+2023,New York Public Library,Local,19386.98
+2023,Flatbush Seniors Center,Food Pantries,30555.39
+2023,Sunset Park Arts Collective,Youth,93278.85
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),23991.11
+2023,Bushwick Youth Services,Food Pantries,42448.25
+2023,Legal Aid Society,Local,46508.77
+2023,New York Public Library,Local,5224.01
+2023,City University of New York,Cultural After-School Adventure (CASA),5338.74
+2023,Food Bank For New York City,Anti-Poverty,5470.55
+2023,Brooklyn Defender Services,Local,72150.48
+2023,New York Public Library,Cultural After-School Adventure (CASA),27625.29
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),38646.50
+2023,Brooklyn Public Library,Local,8047.74
+2023,Legal Aid Society,Cultural After-School Adventure (CASA),9079.13
+2023,City University of New York,Local,29795.16
+2023,Brooklyn Defender Services,Local,31522.74
+2023,City University of New York,Speaker's Initiative,58654.12
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),3865.47
+2023,Flatbush Seniors Center,Youth,84131.80
+2023,Legal Aid Society,Cultural After-School Adventure (CASA),9594.24
+2023,Flatbush Seniors Center,Local,50946.00
+2023,New York Public Library,Food Pantries,40024.40
+2023,Flatbush Seniors Center,Local,12380.53
+2023,Sunset Park Arts Collective,Youth,34726.49
+2023,City University of New York,Cultural After-School Adventure (CASA),125142.40
+2023,Bushwick Youth Services,Local,49266.35
+2023,Bushwick Youth Services,Local,5792.54
+2023,Sunset Park Arts Collective,Local,12824.63
+2023,Brooklyn Defender Services,Cultural After-School Adventure (CASA),20355.13
+2023,City University of New York,Local,8412.11
+2023,Brooklyn Defender Services,Youth,5386.48
+2023,Brooklyn Public Library,Cultural After-School Adventure (CASA),33705.89
+2023,Flatbush Seniors Center,Anti-Poverty,14117.12
+2023,New York Public Library,Youth,17472.29
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),39628.52
+2023,Sunset Park Arts Collective,Youth,19671.99
+2023,New York Public Library,Youth,35715.10
+2023,Brooklyn Public Library,Speaker's Initiative,47800.50
+2023,Sunset Park Arts Collective,Local,30921.61
+2023,Brooklyn Defender Services,Aging,44011.36
+2023,Food Bank For New York City,Anti-Poverty,68731.90
+2023,Legal Aid Society,Food Pantries,282323.20
+2023,Sunset Park Arts Collective,Local,26262.76
+2023,New York Public Library,Youth,10322.93
+2023,Brooklyn Public Library,Cultural After-School Adventure (CASA),26379.56
+2023,Brooklyn Defender Services,Local,14013.09
+2023,Brooklyn Defender Services,Aging,8666.19
+2023,City University of New York,Local,61350.84
+2023,City University of New York,Local,14338.69
+2023,Sunset Park Arts Collective,Cultural After-School Adventure (CASA),278734.61
+2023,City University of New York,Aging,23693.24
+2023,Brooklyn Defender Services,Aging,23256.44
+2023,City University of New York,Aging,46886.65
+2023,Flatbush Seniors Center,Youth,17266.59
+2023,Food Bank For New York City,Local,9029.72
+2023,Brooklyn Defender Services,Food Pantries,32652.81
+2023,New York Public Library,Local,68483.23
+2023,City University of New York,Food Pantries,7133.06
+2023,Bushwick Youth Services,Food Pantries,31100.46
+2023,Brooklyn Public Library,Speaker's Initiative,179125.45
+2023,New York Public Library,Aging,86436.64
+2023,Legal Aid Society,Local,21824.87
+2023,Sunset Park Arts Collective,Speaker's Initiative,136182.44
+2023,Brooklyn Defender Services,Local,16981.98
+2023,City University of New York,Aging,70695.38
+2023,Legal Aid Society,Aging,15056.29
+2023,City University of New York,Speaker's Initiative,21230.50
+2023,Flatbush Seniors Center,Local,20163.13
+2023,Sunset Park Arts Collective,Local,27496.21
+2023,Food Bank For New York City,Youth,17169.26
+2023,City University of New York,Local,18505.49
+2023,Sunset Park Arts Collective,Food Pantries,51914.06
+2023,Flatbush Seniors Center,Food Pantries,8771.61
+2023,Sunset Park Arts Collective,Local,29993.56
+2023,City University of New York,Youth,61785.37
+2023,City University of New York,Local,10490.41
+2023,Sunset Park Arts Collective,Youth,15611.72
+2023,Brooklyn Public Library,Local,26283.97
+2023,City University of New York,Cultural After-School Adventure (CASA),7456.14
+2023,Brooklyn Public Library,Food Pantries,32505.03
+2023,Flatbush Seniors Center,Local,12387.34
+2023,Brooklyn Defender Services,Speaker's Initiative,59701.26
+2023,Legal Aid Society,Local,33203.54
+2023,New York Public Library,Anti-Poverty,15899.08
+2023,Flatbush Seniors Center,Anti-Poverty,14414.01
+2023,Food Bank For New York City,Aging,10757.77
+2023,Food Bank For New York City,Food Pantries,112633.07
+2023,Flatbush Seniors Center,Speaker's Initiative,31557.07
+2023,Brooklyn Public Library,Cultural After-School Adventure (CASA),68624.53
+2023,Flatbush Seniors Center,Aging,9754.17
+2023,Sunset Park Arts Collective,Local,6624.37
+2023,Brooklyn Defender Services,Local,20788.60
+2023,Brooklyn Defender Services,Food Pantries,1079.27
+2023,Legal Aid Society,Local,2900.12
+2023,New York Public Library,Aging,49543.58
+2023,Food Bank For New York City,Anti-Poverty,11717.01
+2023,Flatbush Seniors Center,Aging,11204.99
+2023,New York Public Library,Cultural After-School Adventure (CASA),54343.23
+2023,Flatbush Seniors Center,Local,15229.62
+2023,Legal Aid Society,Local,29341.99
+2023,Legal Aid Society,Youth,142267.23
+2023,Brooklyn Public Library,Local,36257.55
+2023,Food Bank For New York City,Youth,8935.56
+2023,Legal Aid Society,Aging,20957.39
+2023,Legal Aid Society,Local,56360.07
+2023,Bushwick Youth Services,Speaker's Initiative,8243.74
+2023,Brooklyn Defender Services,Cultural After-School Adventure (CASA),15516.01
+2023,Flatbush Seniors Center,Local,60345.14
+2023,Food Bank For New York City,Aging,30408.47
+2023,New York Public Library,Local,15663.20
+2023,New York Public Library,Anti-Poverty,7464.43
+2023,City University of New York,Cultural After-School Adventure (CASA),14540.16
+2023,City University of New York,Local,17635.98
+2023,Brooklyn Public Library,Local,4063.04
+2023,Sunset Park Arts Collective,Speaker's Initiative,9645.73
+2023,City University of New York,Speaker's Initiative,17654.33
+2023,Sunset Park Arts Collective,Local,8777.41
+2023,Legal Aid Society,Speaker's Initiative,2757.21
+2023,Brooklyn Defender Services,Speaker's Initiative,10307.29
+2023,Brooklyn Defender Services,Local,272091.50
+2023,City University of New York,Aging,7208.35
+2023,Legal Aid Society,Local,13762.70
+2023,Food Bank For New York City,Youth,1393.13
+2023,Sunset Park Arts Collective,Speaker's Initiative,41658.71
+2023,Legal Aid Society,Cultural After-School Adventure (CASA),24322.01
+2023,New York Public Library,Cultural After-School Adventure (CASA),36543.05
+2023,Flatbush Seniors Center,Local,18613.72
+2023,New York Public Library,Cultural After-School Adventure (CASA),67900.61
+2023,Flatbush Seniors Center,Food Pantries,3183.54
+2023,Food Bank For New York City,Youth,15282.84
+2023,City University of New York,Youth,4661.62
+2023,Legal Aid Society,Speaker's Initiative,5907.59
+2023,City University of New York,Local,13322.54
+2023,Brooklyn Defender Services,Local,2929.23
+2023,Brooklyn Public Library,Youth,56215.70
+2023,City University of New York,Aging,3820.61
+2023,Bushwick Youth Services,Local,15795.08
+2023,New York Public Library,Local,17047.12
+2023,Bushwick Youth Services,Local,17672.08
+2023,Bushwick Youth Services,Speaker's Initiative,27262.17
+2023,Flatbush Seniors Center,Local,
+2023,Flatbush Seniors Center,Youth,9122.48
+2023,Brooklyn Public Library,Local,30537.98
+2023,Brooklyn Public Library,Local,5112.60
+2023,Brooklyn Defender Services,Speaker's Initiative,7430.61
+2023,Food Bank For New York City,Local,19117.84
+2023,Bushwick Youth Services,Local,23225.06
+2023,Sunset Park Arts Collective,Food Pantries,45281.15
+2023,Brooklyn Defender Services,Youth,22924.22
+2023,Bushwick Youth Services,Youth,22097.39
+2023,Food Bank For New York City,Local,44837.05
+2023,Brooklyn Public Library,Youth,22799.85
+2023,Bushwick Youth Services,Local,7685.71
+2023,Brooklyn Defender Services,Local,22532.88
+2023,Brooklyn Defender Services,Youth,5823.47
+2023,Bushwick Youth Services,Local,42011.68
+2023,Sunset Park Arts Collective,Aging,54740.58
+2023,New York Public Library,Local,75768.69
+2023,Brooklyn Defender Services,Local,31281.36
+2023,Bushwick Youth Services,Local,2846.87
+2023,Brooklyn Defender Services,Aging,14788.23
+2023,Legal Aid Society,Local,21946.79
+2023,Bushwick Youth Services,Local,23594.21
+2023,Sunset Park Arts Collective,Local,2338.78
+2023,Sunset Park Arts Collective,Aging,30240.40
+2023,Flatbush Seniors Center,Local,6088.87
+2023,Bushwick Youth Services,Aging,13783.16
+2023,Bushwick Youth Services,Local,96824.63
+2023,New York Public Library,Cultural After-School Adventure (CASA),46583.67
+2023,Brooklyn Public Library,Anti-Poverty,19178.00
+2023,Sunset Park Arts Collective,Speaker's Initiative,13342.71
+2023,Bushwick Youth Services,Food Pantries,29884.26
+2023,City University of New York,Youth,
+2023,New York Public Library,Local,5233.61
+2023,Food Bank For New York City,Local,14097.57
+2023,Legal Aid Society,Youth,17048.66
+2023,Brooklyn Public Library,Anti-Poverty,79334.16
+2023,City University of New York,Local,16589.32
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),56031.15
+2023,Bushwick Youth Services,Local,8563.02
+2023,Brooklyn Defender Services,Food Pantries,6030.03
+2023,Sunset Park Arts Collective,Youth,13439.66
+2023,Brooklyn Public Library,Anti-Poverty,289288.65
+2023,City University of New York,Local,11051.29
+2023,Brooklyn Defender Services,Anti-Poverty,7521.45
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),30725.44
+2023,Bushwick Youth Services,Local,8531.53
+2023,Brooklyn Public Library,Food Pantries,83045.00
+2023,City University of New York,Local,2032.01
+2023,Bushwick Youth Services,Youth,19728.91
+2023,New York Public Library,Local,56231.07
+2023,Flatbush Seniors Center,Aging,308622.45
+2023,Brooklyn Public Library,Food Pantries,159822.70
+2023,Bushwick Youth Services,Aging,8259.24
+2023,Sunset Park Arts Collective,Local,26962.35
+2023,Brooklyn Defender Services,Local,65786.77
+2023,Food Bank For New York City,Youth,8445.39
+2023,Legal Aid Society,Local,23160.47
+2023,Sunset Park Arts Collective,Local,41390.82
+2023,Food Bank For New York City,Food Pantries,10344.76
+2023,Food Bank For New York City,Aging,24782.61
+2023,Flatbush Seniors Center,Local,32493.86
+2023,New York Public Library,Cultural After-School Adventure (CASA),59329.65
+2023,Brooklyn Defender Services,Local,12308.80
+2023,Food Bank For New York City,Anti-Poverty,4230.00
+2023,City University of New York,Youth,11168.29
+2023,Flatbush Seniors Center,Anti-Poverty,3967.00
+2023,Brooklyn Defender Services,Food Pantries,6371.03
+2023,Bushwick Youth Services,Local,87848.16
+2023,Bushwick Youth Services,Local,16230.97
+2023,City University of New York,Local,18932.16
+2023,Sunset Park Arts Collective,Food Pantries,16351.69
+2023,Flatbush Seniors Center,Local,9958.23
+2023,New York Public Library,Local,91341.54
+2023,Sunset Park Arts Collective,Speaker's Initiative,39631.50
+2023,Sunset Park Arts Collective,Speaker's Initiative,9557.92
+2023,Brooklyn Defender Services,Local,69733.49
+2023,Food Bank For New York City,Local,23810.35
+2023,Flatbush Seniors Center,Youth,16130.96
+2023,Food Bank For New York City,Food Pantries,13136.05
+2023,Sunset Park Arts Collective,Aging,45880.26
+2023,Food Bank For New York City,Local,11067.08
+2023,Brooklyn Public Library,Youth,11936.62
+2023,Brooklyn Public Library,Speaker's Initiative,2850.31
+2023,Food Bank For New York City,Aging,20063.41
+2023,Food Bank For New York City,Local,
+2023,Flatbush Seniors Center,Local,37087.73
+2023,Sunset Park Arts Collective,Local,11421.22
+2023,Food Bank For New York City,Local,10710.97
+2023,Brooklyn Public Library,Speaker's Initiative,21061.99
+2023,City University of New York,Anti-Poverty,91202.82
+2023,Brooklyn Public Library,Youth,15216.76
+2023,Food Bank For New York City,Local,8054.51
+2023,Brooklyn Public Library,Speaker's Initiative,6002.37
+2023,Sunset Park Arts Collective,Local,49378.47
+2023,City University of New York,Cultural After-School Adventure (CASA),162420.13
+2023,Food Bank For New York City,Youth,65148.87
+2023,Sunset Park Arts Collective,Local,35897.13
+2023,Flatbush Seniors Center,Food Pantries,12065.10
+2023,Legal Aid Society,Aging,9502.77
+2023,Brooklyn Defender Services,Local,41187.44
+2023,Legal Aid Society,Local,4327.52
+2023,Brooklyn Defender Services,Local,10844.33
+2023,Bushwick Youth Services,Local,72175.95
+2023,Food Bank For New York City,Local,24558.41
+2023,Brooklyn Defender Services,Food Pantries,5935.09
+2023,Legal Aid Society,Food Pantries,41798.91
+2023,Bushwick Youth Services,Aging,11031.53
+2023,Sunset Park Arts Collective,Speaker's Initiative,56616.22
+2023,Food Bank For New York City,Local,124257.05
+2023,Flatbush Seniors Center,Local,19754.13
+2023,New York Public Library,Local,13823.95
+2023,City University of New York,Youth,41315.44
+2023,Flatbush Seniors Center,Local,156323.15
+2023,Bushwick Youth Services,Aging,9590.62
+2023,City University of New York,Food Pantries,5422.54
+2023,Legal Aid Society,Youth,2034.19
+2023,New York Public Library,Food Pantries,37703.18
+2023,Brooklyn Public Library,Local,7995.52
+2023,Food Bank For New York City,Youth,13207.80
+2023,Sunset Park Arts Collective,Anti-Poverty,5268.47
+2023,Brooklyn Defender Services,Speaker's Initiative,247463.14
+2023,City University of New York,Anti-Poverty,22214.05
+2023,Sunset Park Arts Collective,Local,1931.15
+2023,Bushwick Youth Services,Local,15320.33
+2023,Brooklyn Defender Services,Local,14198.28
+2023,Bushwick Youth Services,Local,161292.92
+2023,Flatbush Seniors Center,Aging,76352.59
+2023,Legal Aid Society,Aging,39018.20
+2023,Legal Aid Society,Local,3627.97
+2023,Legal Aid Society,Anti-Poverty,24250.70
+2023,City University of New York,Aging,105785.66
+2023,City University of New York,Food Pantries,78202.10
+2023,Bushwick Youth Services,Aging,10198.46
+2023,Legal Aid Society,Food Pantries,10752.46
+2023,Flatbush Seniors Center,Food Pantries,11508.80
+2023,Brooklyn Defender Services,Aging,92995.22
+2023,Food Bank For New York City,Food Pantries,27928.63
+2023,Legal Aid Society,Cultural After-School Adventure (CASA),5024.56
+2023,New York Public Library,Food Pantries,5826.84
+2023,Brooklyn Defender Services,Local,4686.35
+2023,Brooklyn Defender Services,Local,13065.66
+2023,Flatbush Seniors Center,Anti-Poverty,42863.13
+2023,Legal Aid Society,Anti-Poverty,62029.00
+2023,Bushwick Youth Services,Youth,21575.85
+2023,Brooklyn Defender Services,Youth,16619.01
+2023,Brooklyn Defender Services,Local,47795.45
+2023,Brooklyn Public Library,Aging,8697.57
+2023,Food Bank For New York City,Local,14217.79
+2023,New York Public Library,Local,13054.62
+2023,Food Bank For New York City,Speaker's Initiative,6696.76
+2023,Brooklyn Defender Services,Cultural After-School Adventure (CASA),5700.17
+2023,City University of New York,Local,63621.97
+2023,Sunset Park Arts Collective,Food Pantries,118315.62
+2023,City University of New York,Local,26949.73
+2023,Food Bank For New York City,Youth,14202.43
+2023,Brooklyn Defender Services,Youth,3986.72
+2023,City University of New York,Local,17034.56
+2023,Sunset Park Arts Collective,Local,45558.39
+2023,Legal Aid Society,Local,7024.28
+2023,City University of New York,Anti-Poverty,4409.26
+2023,New York Public Library,Local,43699.17
+2023,Sunset Park Arts Collective,Food Pantries,22528.08
+2023,Brooklyn Public Library,Aging,17583.13
+2023,Flatbush Seniors Center,Youth,7751.41
+2023,Bushwick Youth Services,Cultural After-School Adventure (CASA),47465.51
+2023,New York Public Library,Cultural After-School Adventure (CASA),60807.85
+2023,Brooklyn Public Library,Anti-Poverty,18078.39
+2023,Food Bank For New York City,Local,1875.43
+2023,Bushwick Youth Services,Youth,16238.69
+2023,City University of New York,Local,87377.39
+2023,Sunset Park Arts Collective,Food Pantries,19210.26
+2023,New York Public Library,Anti-Poverty,5555.87
+2023,Flatbush Seniors Center,Local,9762.99
+2023,City University of New York,Local,14681.30
+2023,Food Bank For New York City,Local,17567.45
+2023,Sunset Park Arts Collective,Youth,6567.27
+2023,City University of New York,Speaker's Initiative,79572.02
+2023,City University of New York,Anti-Poverty,9848.99
+2023,Bushwick Youth Services,Anti-Poverty,28638.57
+2023,Food Bank For New York City,Local,15531.10
+2023,Sunset Park Arts Collective,Food Pantries,7084.29
+2023,Legal Aid Society,Local,35979.45
+2023,Food Bank For New York City,Local,18622.40
+2023,New York Public Library,Youth,9363.61
+2023,Brooklyn Defender Services,Youth,85478.14
+2023,City University of New York,Anti-Poverty,24180.06
+2023,Food Bank For New York City,Local,47326.84
+2023,Bushwick Youth Services,Local,12740.79
+2023,Brooklyn Public Library,Speaker's Initiative,20206.49
+2023,Sunset Park Arts Collective,Speaker's Initiative,9350.65
+2023,Bushwick Youth Services,Aging,47463.98
+2023,Brooklyn Public Library,Speaker's Initiative,76831.74
+2023,Brooklyn Public Library,Aging,25224.29
+2023,New York Public Library,Food Pantries,26430.73
+2023,Brooklyn Public Library,Local,101817.04
+2023,Flatbush Seniors Center,Local,21846.36
+2023,Bushwick Youth Services,Local,11159.57
+2023,Bushwick Youth Services,Cultural After-School Adventure (CASA),40540.83
+2023,Sunset Park Arts Collective,Youth,62490.54
+2023,City University of New York,Youth,68457.82
+2023,Legal Aid Society,Aging,20485.29
+2023,Brooklyn Public Library,Local,26583.80
+2023,Brooklyn Defender Services,Local,40527.59
+2023,Flatbush Seniors Center,Local,4036.88
+2023,Legal Aid Society,Anti-Poverty,4921.28
+2023,Flatbush Seniors Center,Local,29148.20
+2023,Brooklyn Defender Services,Local,9929.72
+2023,Brooklyn Defender Services,Anti-Poverty,39633.96
+2023,Brooklyn Defender Services,Youth,96907.64
+2023,Food Bank For New York City,Speaker's Initiative,12783.91
+2023,Food Bank For New York City,Aging,10302.47
+2023,Brooklyn Defender Services,Local,13835.96
+2023,Brooklyn Defender Services,Local,7624.20
+2023,Sunset Park Arts Collective,Speaker's Initiative,20427.51
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),12450.81
+2023,City University of New York,Food Pantries,56054.37
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),47669.83
+2023,Bushwick Youth Services,Youth,18532.75
+2023,City University of New York,Food Pantries,5658.77
+2023,Brooklyn Defender Services,Local,210961.67
+2023,Flatbush Seniors Center,Local,8970.07
+2023,Bushwick Youth Services,Food Pantries,124138.83
+2023,Brooklyn Public Library,Local,12716.35
+2023,Sunset Park Arts Collective,Youth,23418.09
+2023,Food Bank For New York City,Aging,48677.35
+2023,Brooklyn Defender Services,Speaker's Initiative,26838.53
+2023,Brooklyn Public Library,Local,18091.51
+2023,Food Bank For New York City,Aging,12585.14
+2023,Legal Aid Society,Food Pantries,78286.33
+2023,Brooklyn Defender Services,Local,8215.87
+2023,Flatbush Seniors Center,Food Pantries,12494.55
+2023,New York Public Library,Youth,12987.05
+2023,Brooklyn Public Library,Youth,15552.34
+2023,Brooklyn Public Library,Local,5473.45
+2023,Food Bank For New York City,Youth,14536.81
+2023,Brooklyn Defender Services,Anti-Poverty,38971.02
+2023,Flatbush Seniors Center,Anti-Poverty,40284.54
+2023,Food Bank For New York City,Youth,6822.54
+2023,Bushwick Youth Services,Aging,60049.75
+2023,City University of New York,Local,29684.70
+2023,Food Bank For New York City,Youth,92199.41
+2023,Sunset Park Arts Collective,Anti-Poverty,7360.95
+2023,City University of New York,Food Pantries,91633.04
+2023,City University of New York,Local,16445.36
+2023,Brooklyn Defender Services,Aging,4650.25
+2023,Food Bank For New York City,Youth,238874.34
+2023,Sunset Park Arts Collective,Local,42369.08
+2023,Brooklyn Public Library,Youth,59142.83
+2023,New York Public Library,Aging,88501.80
+2023,Food Bank For New York City,Speaker's Initiative,10462.09
+2023,New York Public Library,Aging,29730.89
+2023,New York Public Library,Cultural After-School Adventure (CASA),17123.62
+2023,City University of New York,Food Pantries,20255.07
+2023,Brooklyn Public Library,Youth,10199.28
+2023,Sunset Park Arts Collective,Local,44454.05
+2023,City University of New York,Youth,23470.57
+2023,Brooklyn Defender Services,Speaker's Initiative,7049.51
+2023,Flatbush Seniors Center,Anti-Poverty,7137.13
+2023,City University of New York,Youth,57675.16
+2023,City University of New York,Speaker's Initiative,13889.40
+2023,Sunset Park Arts Collective,Cultural After-School Adventure (CASA),8351.82
+2023,Flatbush Seniors Center,Food Pantries,17335.04
+2023,Legal Aid Society,Local,15398.51
+2023,Sunset Park Arts Collective,Local,138062.68
+2023,City University of New York,Local,2489.68
+2023,Brooklyn Public Library,Food Pantries,31907.91
+2023,City University of New York,Youth,10968.85
+2023,Legal Aid Society,Food Pantries,46005.69
+2023,Legal Aid Society,Local,68623.41
+2023,Bushwick Youth Services,Youth,52212.66
+2023,Legal Aid Society,Local,13879.54
+2023,Legal Aid Society,Cultural After-School Adventure (CASA),35278.06
+2023,City University of New York,Cultural After-School Adventure (CASA),42899.68
+2023,Flatbush Seniors Center,Local,21759.72
+2023,City University of New York,Local,7274.80
+2023,New York Public Library,Youth,6513.07
+2023,Brooklyn Defender Services,Speaker's Initiative,27207.35
+2023,Brooklyn Public Library,Aging,52362.85
+2023,Food Bank For New York City,Local,18841.59
+2023,Bushwick Youth Services,Anti-Poverty,6186.25
+2023,City University of New York,Speaker's Initiative,9736.05
+2023,Flatbush Seniors Center,Local,35662.43
+2023,Legal Aid Society,Local,35078.70
+2023,Bushwick Youth Services,Local,29435.75
+2023,Legal Aid Society,Speaker's Initiative,38324.79
+2023,Flatbush Seniors Center,Local,9471.52
+2023,Legal Aid Society,Local,10309.25
+2023,Sunset Park Arts Collective,Speaker's Initiative,17483.88
+2023,City University of New York,Speaker's Initiative,14555.47
+2023,Sunset Park Arts Collective,Aging,14978.49
+2023,Brooklyn Public Library,Cultural After-School Adventure (CASA),8376.42
+2023,Brooklyn Public Library,Local,12892.59
+2023,City University of New York,Local,73514.03
+2023,Brooklyn Public Library,Youth,219535.75
+2023,Flatbush Seniors Center,Local,31491.54
+2023,New York Public Library,Youth,11248.42
+2023,Flatbush Seniors Center,Cultural After-School Adventure (CASA),10291.29
+2023,Legal Aid Society,Local,34323.36
+2023,Legal Aid Society,Food Pantries,3980.52
+2023,New York Public Library,Youth,57998.22
+2023,New York Public Library,Cultural After-School Adventure (CASA),19372.34
+2023,Legal Aid Society,Local,77336.13
+2023,City University of New York,Youth,15250.26
+2023,Brooklyn Defender Services,Local,7135.73
+2023,Food Bank For New York City,Food Pantries,30022.35
+2023,New York Public Library,Local,8828.18
+2023,Legal Aid Society,Aging,24724.88
+2023,Bushwick Youth Services,Cultural After-School Adventure (CASA),19484.32
+2023,Legal Aid Society,Local,14336.51
+2023,Food Bank For New York City,Speaker's Initiative,13016.34
+2023,Sunset Park Arts Collective,Anti-Poverty,16536.80
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),24744.50
+2023,Legal Aid Society,Anti-Poverty,145874.71
+2023,Flatbush Seniors Center,Anti-Poverty,67869.68
+2023,Bushwick Youth Services,Youth,4630.98
+2023,Brooklyn Public Library,Local,23806.98
+2023,Brooklyn Public Library,Food Pantries,49820.27
+2023,Bushwick Youth Services,Local,49781.98
+2023,City University of New York,Youth,9681.89
+2023,Brooklyn Defender Services,Speaker's Initiative,11930.96
+2023,City University of New York,Aging,35702.43
+2023,Brooklyn Defender Services,Local,4326.61
+2023,Brooklyn Defender Services,Local,23914.03
+2023,City University of New York,Local,25723.12
+2023,New York Public Library,Local,22705.76
+2023,Sunset Park Arts Collective,Youth,14694.15
+2023,Flatbush Seniors Center,Local,12706.91
+2023,Sunset Park Arts Collective,Speaker's Initiative,15449.29
+2023,Flatbush Seniors Center,Youth,22931.45
+2023,Flatbush Seniors Center,Aging,104209.39
+2023,City University of New York,Youth,26447.83
+2023,Brooklyn Defender Services,Local,6963.90
+2023,Sunset Park Arts Collective,Local,43397.50
+2023,Food Bank For New York City,Local,13546.74
+2023,City University of New York,Local,15089.35
+2023,Food Bank For New York City,Cultural After-School Adventure (CASA),4435.62
+2023,Brooklyn Defender Services,Local,8063.33
+2023,New York Public Library,Local,17171.23
+2023,New York Public Library,Food Pantries,51096.87
+2023,Sunset Park Arts Collective,Youth,36526.07
+2023,Bushwick Youth Services,Local,6670.72
+2023,Flatbush Seniors Center,Local,7788.64
+2023,New York Public Library,Local,45003.39
+2023,Food Bank For New York City,Local,45059.23
+2023,Sunset Park Arts Collective,Local,12925.96
+2023,New York Public Library,Cultural After-School Adventure (CASA),7738.79
+2023,Flatbush Seniors Center,Anti-Poverty,20653.13
+2023,Food Bank For New York City,Local,16648.07
+2023,Flatbush Seniors Center,Food Pantries,57811.84
+2023,New York Public Library,Aging,14348.87
+2023,Flatbush Seniors Center,Local,17225.64
+2023,Bushwick Youth Services,Cultural After-School Adventure (CASA),9386.08
+2023,Food Bank For New York City,Food Pantries,36183.27
+2023,Sunset Park Arts Collective,Youth,22416.71
+2023,Flatbush Seniors Center,Local,16767.75
+2023,Flatbush Seniors Center,Youth,18383.04
+2023,Bushwick Youth Services,Aging,50541.81
+2023,City University of New York,Food Pantries,15085.22
+2023,Legal Aid Society,Aging,11485.44
+2023,City University of New York,Local,79318.82
+2023,New York Public Library,Speaker's Initiative,24668.05
+2023,Brooklyn Public Library,Aging,7333.19
+2023,Food Bank For New York City,Youth,10762.15
+2023,Bushwick Youth Services,Local,36399.48
+2023,Sunset Park Arts Collective,Local,41242.23
+2023,Brooklyn Defender Services,Youth,16888.71
+2023,Legal Aid Society,Speaker's Initiative,6351.71
+2023,Brooklyn Public Library,Local,92922.11
+2023,Bushwick Youth Services,Youth,21159.26
+2023,Bushwick Youth Services,Local,21793.95
+2023,Legal Aid Society,Food Pantries,26811.99
+2023,Brooklyn Defender Services,Local,18729.97
+2023,Brooklyn Public Library,Local,7105.40
+2023,Bushwick Youth Services,Youth,4382.14
+2023,Bushwick Youth Services,Local,13871.73
+2023,Brooklyn Public Library,Local,24873.35
+2023,Food Bank For New York City,Youth,2745.57
+2023,Flatbush Seniors Center,Local,21272.07
+2023,New York Public Library,Youth,97363.23
+2023,Legal Aid Society,Food Pantries,11616.27
+2023,Legal Aid Society,Youth,22971.82
+2023,Brooklyn Public Library,Local,115639.53
+2023,City University of New York,Cultural After-School Adventure (CASA),13818.29
+2023,Brooklyn Defender Services,Local,68539.38
+2023,New York Public Library,Aging,22245.65
+2023,Sunset Park Arts Collective,Aging,7893.35
+2023,Food Bank For New York City,Local,14527.38
+2023,Brooklyn Public Library,Local,41593.64
+2023,Brooklyn Public Library,Local,3090.15
+2023,Brooklyn Defender Services,Local,5642.79
+2023,City University of New York,Local,39319.19
+2023,Sunset Park Arts Collective,Local,46340.45
+2023,Bushwick Youth Services,Local,10647.12
+2023,City University of New York,Anti-Poverty,25130.71
+2023,Bushwick Youth Services,Local,45511.22
+2023,Brooklyn Public Library,Youth,9577.20
+2023,City University of New York,Cultural After-School Adventure (CASA),29637.83
+2023,New York Public Library,Local,898.84
+2023,Brooklyn Public Library,Local,51021.48
+2023,Bushwick Youth Services,Anti-Poverty,9470.63
+2023,Bushwick Youth Services,Youth,17326.41
+2023,Flatbush Seniors Center,Food Pantries,4326.36
+2023,Brooklyn Defender Services,Local,39759.00
+2023,Bushwick Youth Services,Cultural After-School Adventure (CASA),11817.43
+2023,Sunset Park Arts Collective,Aging,19850.37
+2023,Brooklyn Defender Services,Aging,19085.28
+2023,Legal Aid Society,Local,35711.05
+2023,Sunset Park Arts Collective,Aging,13970.85
+2023,Flatbush Seniors Center,Youth,72312.38
+2023,Legal Aid Society,Youth,9192.58
+2023,Brooklyn Defender Services,Food Pantries,3857.45
+2023,Food Bank For New York City,Food Pantries,10928.25
+2023,City University of New York,Local,73603.80
+2023,New York Public Library,Aging,10046.29
+2023,Brooklyn Defender Services,Local,10590.16
+2023,City University of New York,Cultural After-School Adventure (CASA),50943.79
+2023,Brooklyn Public Library,Local,33914.86
+2023,Sunset Park Arts Collective,Anti-Poverty,50366.82
+2023,Legal Aid Society,Local,9942.99
+2023,Brooklyn Defender Services,Youth,46219.09
+2023,Sunset Park Arts Collective,Local,39020.14
+2023,Brooklyn Public Library,Youth,11124.16
+2023,Brooklyn Public Library,Local,28376.50
+2023,Brooklyn Public Library,Speaker's Initiative,10504.85
+2023,Flatbush Seniors Center,Youth,34923.21
+2023,Brooklyn Defender Services,Youth,14607.48
+2023,Brooklyn Defender Services,Aging,53635.12
+2023,City University of New York,Local,7774.39
+2023,New York Public Library,Local,50340.44
+2023,Bushwick Youth Services,Local,8599.15
+2023,Legal Aid Society,Food Pantries,9569.53
+2023,City University of New York,Aging,121949.67
+2023,Flatbush Seniors Center,Local,3761.08
+2023,Food Bank For New York City,Speaker's Initiative,29610.80
+2023,Legal Aid Society,Local,9733.33
+2023,Legal Aid Society,Aging,26274.38
+2023,Brooklyn Defender Services,Cultural After-School Adventure (CASA),26915.46
+2023,Brooklyn Public Library,Aging,51896.17
+2023,Food Bank For New York City,Local,8364.55
+2023,Sunset Park Arts Collective,Youth,11087.31
+2023,Food Bank For New York City,Local,14597.31
+2023,Sunset Park Arts Collective,Youth,13898.95
+2023,Brooklyn Public Library,Cultural After-School Adventure (CASA),24225.11
+2023,City University of New York,Cultural After-School Adventure (CASA),7819.35
+2023,City University of New York,Aging,12950.17
+2023,Food Bank For New York City,Local,30348.75

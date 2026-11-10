@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy
+scipy
+matplotlib
+sodapy>=2.2
+nltk>=3.8
+pytest
+jupyter
