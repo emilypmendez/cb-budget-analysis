@@ -4,7 +4,7 @@
 
 **Position:** Data Scientist, Research and Analytics Department (Reference No. RAD_NYC_DAS_6463)
 
-**Repository:** [ADD PUBLIC GITHUB LINK]
+**Repository:** [https://github.com/emilypmendez/cb-budget-analysis](https://github.com/emilypmendez/cb-budget-analysis)
 
 **Where to start:** `cb_budget_analysis.ipynb`; supporting code in `budget_utils.py` and `sql/`
 
